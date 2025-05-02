@@ -1,11 +1,11 @@
-package int 
+package main
 
 import "fmt"
 
 
 
 func main(){
-    geuss := 'C'
+    guess := 'C'
     fmt.Println("Is", guess, "Your final answer? ")
 
 }
