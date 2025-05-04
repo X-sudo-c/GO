@@ -9,6 +9,6 @@ func main(){
 	if isHungry{
 		fmt.Println("Eat the cookie")
 	}else{
-		fmt.Println("Step away from the Cookie")
+		fmt.Println("Step away from the Cookie...")
 	}
 }
