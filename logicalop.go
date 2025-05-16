@@ -4,15 +4,28 @@ package main
 import "fmt"
 
 
-
  func main(){
-	bool doorsOPen = false
-	char storeLights = on
+	rightTime := true
+	rightPlace := true
 
 
-	if storeLights == "on" && doorsOpen{
-		fmt.Println("You can enter the store!")
+	if rightTime && rightPlace{
+		fmt.Println("We're outta here!")
+	}else{
+		fmt.Println("Be patient ..")
+	}
+
+	enoughRobbers := false
+	enoughBAgs := true
+
+	//Edit this conditoin for the SECOND  checkpoint
+	if enoughRobbers && enoughBAgs{
+		fmt.Println("Grab everything!")
+	}else{
+		fmt.Println("Grab whatever you can ")
 	}
 
 
 }
+
+
