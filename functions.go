@@ -19,6 +19,5 @@ func main(){
 
 	//we call our function for the second time
 	summonNicole()
-
-
+	
 }
