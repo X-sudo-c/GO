@@ -10,7 +10,13 @@ func specialComputation(x float64) float64{
   
 }
 
+
+func dummy(){
+  fmt.Println("This is a dummy commit ")
+}
+
 func main() {
+  
   var a, b, c, d float64
   a = .0214
   b = 1.02
@@ -24,4 +30,7 @@ func main() {
   d = specialComputation(d)
   
   fmt.Println(a, b, c, d)
+
+
+  dummy()
 }
