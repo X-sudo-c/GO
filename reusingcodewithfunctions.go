@@ -1,7 +1,8 @@
 package main
+
 import (
+	"fmt"
 	"math"
-  "fmt"
 )
 
 // Define specialComputation() here
@@ -11,8 +12,10 @@ func specialComputation(x float64) float64{
 }
 
 
-func dummy(){
+func dummy(x , y int32) int32 {
   fmt.Println("This is a dummy commit ")
+
+  return x + y
 }
 
 func main() {
@@ -32,5 +35,5 @@ func main() {
   fmt.Println(a, b, c, d)
 
 
-  dummy()
+  fmt.Println(dummy(3,3))
 }
