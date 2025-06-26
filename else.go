@@ -1,5 +1,5 @@
 package main
-
+//why is go like c i port "fmt "
 
 import "fmt"
 
