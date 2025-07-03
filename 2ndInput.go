@@ -19,3 +19,4 @@ func main(){
 
 //arghhghghghhg i have to actualy learn go well
 //dammit mernn
+//another comment just for thst green tick
