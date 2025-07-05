@@ -1,6 +1,8 @@
 package main
 import "fmt"
 
+//importing is just like 
+
 // Update getLikesAndShares to return two ints
 func getLikesAndShares(postId int)(int, int) {
   var likesForPost, sharesForPost int
