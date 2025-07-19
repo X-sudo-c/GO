@@ -9,7 +9,7 @@ func summonNicole(){
 
 
 
-
+//i dont remember how funcs
 
 func main(){
 	//call your function her
