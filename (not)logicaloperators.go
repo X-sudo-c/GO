@@ -1,6 +1,6 @@
 package main 
 import "fmt"
-
+//lol
 
 func main(){
 	readyToGo := true
