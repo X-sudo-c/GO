@@ -1,4 +1,4 @@
-package main 
+swspackage main 
 import "fmt"
 //lol
 
