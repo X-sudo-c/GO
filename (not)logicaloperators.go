@@ -18,3 +18,4 @@ func main(){
 //lol
 mm//
 //learnmror
+//was learning go
