@@ -19,3 +19,4 @@ func main(){
 mm//
 //learnmror
 //was learning go
+//:= true means not true
