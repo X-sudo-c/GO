@@ -15,6 +15,6 @@ func main(){
 
 
 	fmt.Print("DIfferent", "STorys, wide, lol") //the fmt.Print state ments act alittle weird 
-
+	fmt.Print("This", "is" , "three", "statements")
 }
 
