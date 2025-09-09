@@ -19,4 +19,5 @@ func main(){
 
 //arghhghghghhg i have to actualy learn go well
 //dammit mernn
-//another comment just for thst green tick
+//another comment just for thst green tick\
+//so i commit a day to remind myself how the syntax is 
