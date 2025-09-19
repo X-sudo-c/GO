@@ -15,3 +15,4 @@ func main(){
 
 	fmt.Printf("You typed: %q", Input)
 }
+//what does the scanner mean
